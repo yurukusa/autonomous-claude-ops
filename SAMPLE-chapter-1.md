@@ -80,3 +80,7 @@ The fix is not "work less." The machine working hard is fine; the machine workin
 None of it requires you to slow the machine down. It requires you to stop letting the machine count its own motion as a win.
 
 The next chapter starts where the damage starts: with the definition of "progress" itself.
+
+---
+
+*That's the free sample.* The remaining five chapters — the outcome ledger, the gate before the action, the two silent failures, and the session-boundary handoff — are the fix, each checkable against your own logs. The full book, *Autonomous Claude Ops*, is coming to Kindle (USD 9.99). [**Star or watch this repo**](https://github.com/yurukusa/autonomous-claude-ops) to catch the release — the buy link lands in the README the moment it's live. In the meantime, [`verify.py`](verify.py) is yours to keep.

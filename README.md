@@ -45,7 +45,7 @@ Six short chapters, one idea aimed at six surfaces, every claim checkable agains
 
 ## Get the book
 
-*Autonomous Claude Ops* is coming to Kindle (USD 9.99). Star/watch this repo to catch the release — the buy link lands here when it's live.
+***Autonomous Claude Ops* is now live on [Gumroad (~$6, instant download)](https://yurukusa.gumroad.com/l/iglmx)** — all 7 chapters, including Ch.7 *The Reset You Didn't Type* (the `git reset --hard` you never ran). The free `verify.py` above runs the same audit the book is built on. A Kindle / Leanpub edition is in progress.
 
 ## License
 
